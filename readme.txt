@@ -1,1 +1,2 @@
-salutacio
+salutoacio
+com vas
